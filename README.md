@@ -58,18 +58,9 @@ Once the container is running, you can test the Flask API:
 
 ### **API Endpoints**
 #### **POST /analyze**
-- **Request**: 
-  - **Body**: JSON object with a `text` field containing the text to analyze.
-  ```json
-  {
-    "text": "I love this product!"
-  }
-  ```
-- **Response**: JSON object with sentiment classification.
-  ```json
-  {
-    "sentiment": "positive"
-  }
+![positive review](https://drive.google.com/file/d/1Ta1kSZGgTXmVQHnJlkl0CpPu6dIzhwLj/view?usp=sharing)
+![negative review](https://drive.google.com/file/d/1lPOwP4ENFniiZutxqJKShzzRnCFxJRGB/view?usp=sharing)
+![emoji review](https://drive.google.com/file/d/1pkLlC7SRdXfDRP8uU1CzW8NDH6drDDCS/view?usp=sharing).
   ```
 
 ### **Contributing**
