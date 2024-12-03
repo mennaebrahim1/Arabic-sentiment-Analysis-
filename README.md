@@ -43,16 +43,6 @@ docker build -t sentiment-analysis .
 docker run -d -p 5000:5000 sentiment-analysis
 ```
 
-#### **4. Test the API**
-Once the container is running, you can test the Flask API:
-- Open your browser and visit:
-  ```
-  http://localhost:5000/
-  ```
-- Alternatively, use `curl` to test an endpoint:
-  ```bash
-  curl -X POST "http://localhost:5000/analyze" -H "Content-Type: application/json" -d '{"text": "This is amazing!"}'
-  ```
 
 ### **Contributing**
 1. Fork the repository.
