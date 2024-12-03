@@ -60,7 +60,7 @@ Once the container is running, you can test the Flask API:
 #### **POST /analyze**
 ![positive review](https://drive.google.com/file/d/1Ta1kSZGgTXmVQHnJlkl0CpPu6dIzhwLj/view?usp=sharing)
 ![negative review](https://drive.google.com/file/d/1lPOwP4ENFniiZutxqJKShzzRnCFxJRGB/view?usp=sharing)
-![emoji review](https://drive.google.com/file/d/1pkLlC7SRdXfDRP8uU1CzW8NDH6drDDCS/view?usp=sharing).
+![emoji review](Screenshot 2024-12-03 221558.png).
   ```
 
 ### **Contributing**
