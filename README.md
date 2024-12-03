@@ -54,15 +54,6 @@ Once the container is running, you can test the Flask API:
   curl -X POST "http://localhost:5000/analyze" -H "Content-Type: application/json" -d '{"text": "This is amazing!"}'
   ```
 
----
-
-### **API Endpoints**
-#### **POST /analyze**
-![positive review](https://drive.google.com/file/d/1Ta1kSZGgTXmVQHnJlkl0CpPu6dIzhwLj/view?usp=sharing)
-![negative review](https://drive.google.com/file/d/1lPOwP4ENFniiZutxqJKShzzRnCFxJRGB/view?usp=sharing)
-![emoji review](Screenshot 2024-12-03 221558.png).
-  ```
-
 ### **Contributing**
 1. Fork the repository.
 2. Create a feature branch: `git checkout -b feature-name`.
