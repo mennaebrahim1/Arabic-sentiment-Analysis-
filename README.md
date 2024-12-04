@@ -15,7 +15,7 @@ This project uses a Flask API to perform sentiment analysis on text data, classi
 ### **Technologies Used**
 - **Python**: Core language for the application.
 - **Flask**: Web framework for creating the API.
-- **Sentiment Analysis Libraries**: [e.g., Scikit-learn, NLTK, or Hugging Face].
+- **Sentiment Analysis Libraries**: [e.g, Scikit-learn, NLTK, or Hugging Face].
 - **Docker**: To containerize the application for scalability and portability.
 
 ---
